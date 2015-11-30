@@ -5,5 +5,5 @@ Git tracks changes of files.
 Stupid boss.
 Git is perfect.
 Git can create a new branch.
-vi readme.txt.
+Git vi readme.txt.
 Creating a new branch is qiuck and simple.
