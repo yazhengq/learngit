@@ -7,3 +7,4 @@ Git is perfect.
 Git can create a new branch.
 Git vi readme.txt.
 Creating a new branch is qiuck and simple.
+Git can merge very well.
