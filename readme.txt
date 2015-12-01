@@ -9,3 +9,5 @@ Git vi readme.txt.
 Creating a new branch is qiuck and simple.
 Git can merge very well.
 Git can fix bug branch.
+Git is a free software.
+
